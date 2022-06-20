@@ -1,0 +1,4 @@
+- 👋 Oi, meu nome é @kauanrc
+- 👀 Meu email de contato é kauan.cabeleira@escola.pr.gov.br
+- 🌱 Eu estou interessado em aprender a programar novas linguagens
+- 💞️ Eu estou aprendendo a programar recentemente a linguagem JavaScript e scratch
